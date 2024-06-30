@@ -1,8 +1,0 @@
-//Array CRUD
-
-//Create
-string[] favoriteRats = ["fancy rat", "brown rat", "radioactive rat", "wolf rat" ];
-
-//Read
-Console.WriteLine(favoriteRats);
-

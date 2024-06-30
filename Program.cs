@@ -1,13 +1,13 @@
 ﻿//Create Read Update Delete
 //CRUD
 //Create
-using System.Text;
+//using System.Text;
 
-string petFish = "puffer fish";
+//string petFish = "puffer fish";
 
 
 //Concatenation
-petFish = "porcupine" + petFish;
+//petFish = "porcupine" + petFish;
 
 //Template Literal
 //Console.WriteLine($"I AM BUYING{petFish}. YOU CANNOT STOP ME!!!!"); 
@@ -19,13 +19,13 @@ petFish = "porcupine" + petFish;
 
 //UPDATE
 //petFish[0]  = "P";
-string newPetFish = petFish.Replace("porcupine", "blue dot");
+//string newPetFish = petFish.Replace("porcupine", "blue dot");
 //Console.WriteLine(newPetFish);
 
 //DELETE
 //String Builder
-StringBuilder newCrustacean = new StringBuilder();
-newCrustacean.Append("fiddler crab");
-Console.WriteLine(newCrustacean);
-newCrustacean.Remove(0, 8);
-Console.WriteLine(newCrustacean);
+//StringBuilder newCrustacean = new StringBuilder();
+//newCrustacean.Append("fiddler crab");
+//Console.WriteLine(newCrustacean);
+//newCrustacean.Remove(0, 8);
+//Console.WriteLine(newCrustacean);
